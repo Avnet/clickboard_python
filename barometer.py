@@ -97,7 +97,7 @@ def get_pressure(): #in mbar
 
 
 # --------------------------------------------------------------------------------
-# Compile with -O or -OO to run this test as a standalone routine to verify
+# Compile without -O or -OO to run this test as a standalone routine to verify
 # it is working correctly
 #
 if __debug__:
