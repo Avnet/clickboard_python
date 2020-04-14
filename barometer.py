@@ -1,5 +1,5 @@
 #
-# copyright (c) 2018, James Flynn
+# copyright (c) 2020, James Flynn
 # SPDX-License-Identifier: MIT
 #
 # @file   barometer.py
